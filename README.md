@@ -10,7 +10,7 @@ The main focus of the course was the design, implementation, and verification of
 
 ---
 
-## Course Topics
+## Topics
 
 The course covered several key topics in digital hardware design and computer architecture:
 
