@@ -1,27 +1,44 @@
-# Hardware Description Languages and FPGA-Based Processor Design
+# Processor Architecture and RTL Design
 
 ## Overview
 
-This repository contains selected laboratory projects completed as part of an academic course focused on **Hardware Description Languages, digital system design, processor architecture, and FPGA-based implementation**.
+This repository contains an academic laboratory project focused on processor architecture, RTL design, and hardware description methodologies.
 
-The course provided practical and theoretical experience in the full hardware design flow, starting from system specification and architectural planning, through functional verification and simulation, and up to hardware validation on an FPGA platform.
+The lab demonstrates the design and analysis of core processor components, with emphasis on the relationship between the instruction set architecture, the datapath, and the control unit. The project was implemented as part of a Hardware Description Languages and FPGA-based digital design course.
 
-The main focus of the course was the design, implementation, and verification of processor cores and SoC-style digital systems using hardware description methodologies.
+The main goal of this lab was to gain practical experience in designing digital hardware at the RTL level and understanding how processor functionality is translated into hardware structures.
 
 ---
 
-## Topics
+## Main Objectives
 
-The course covered several key topics in digital hardware design and computer architecture:
+- Understand the basic structure of a processor core
+- Study the relationship between ISA and microarchitecture
+- Design processor components using RTL methodology
+- Analyze the separation between datapath and control logic
+- Perform functional simulation and verification
+- Gain practical experience with hardware description languages
 
-- Hardware Description Languages and RTL design methodologies
-- Synchronous digital design
-- FPGA-based system development
-- Functional verification and validation
-- Processor datapath and control-unit design
+---
+
+## Key Topics
+
+- Hardware Description Languages
+- RTL design methodology
+- Processor architecture
 - ISA and microarchitecture concepts
-- Single-cycle processor implementation
-- Multi-cycle processor implementation
-- Pipelined processor architecture
-- Performance, power, and timing considerations
-- Modular hardware design and system integration
+- Datapath design
+- Control-unit logic
+- Functional verification
+- Testbench-based simulation
+
+---
+
+## Repository Structure
+
+```text
+processor-architecture-rtl-design/
+│
+├── README.md
+├── report.pdf
+└── source_files/
